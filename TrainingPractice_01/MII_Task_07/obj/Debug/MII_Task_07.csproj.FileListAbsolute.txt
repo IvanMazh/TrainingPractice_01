@@ -1,0 +1,7 @@
+C:\Users\imdon\source\repos\TrainingPractice_01\MII_Task_07\bin\Debug\MII_Task_07.exe.config
+C:\Users\imdon\source\repos\TrainingPractice_01\MII_Task_07\bin\Debug\MII_Task_07.exe
+C:\Users\imdon\source\repos\TrainingPractice_01\MII_Task_07\bin\Debug\MII_Task_07.pdb
+C:\Users\imdon\source\repos\TrainingPractice_01\MII_Task_07\obj\Debug\MII_Task_07.csproj.CoreCompileInputs.cache
+C:\Users\imdon\source\repos\TrainingPractice_01\MII_Task_07\obj\Debug\MII_Task_07.exe
+C:\Users\imdon\source\repos\TrainingPractice_01\MII_Task_07\obj\Debug\MII_Task_07.pdb
+C:\Users\imdon\source\repos\TrainingPractice_01\MII_Task_07\obj\Debug\MII_Task_07.csproj.AssemblyReference.cache
